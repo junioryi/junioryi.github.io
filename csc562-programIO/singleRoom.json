@@ -1,0 +1,6 @@
+{
+    "rooms":[["s", "s", "s"],
+             ["s", 0, "s"],
+             ["s", "s", "s"]],
+    "furniture": [[0,0,0,"sphere",0],[0,0,0,"triangleset",0]]
+}
